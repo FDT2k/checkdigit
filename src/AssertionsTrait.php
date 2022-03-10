@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace byrokrat\checkdigit;
+namespace KDA\checkdigit;
 
 trait AssertionsTrait
 {

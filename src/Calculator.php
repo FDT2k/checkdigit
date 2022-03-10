@@ -1,6 +1,6 @@
 <?php
 
-namespace byrokrat\checkdigit;
+namespace KDA\checkdigit;
 
 interface Calculator
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace byrokrat\checkdigit;
+namespace KDA\checkdigit;
 
 /**
  * Modulo10 calculator, variant used for GTIN (EAN, UPC, ISBN-13, JAN and ITF) barcodes
